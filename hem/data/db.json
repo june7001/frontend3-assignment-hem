@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "MARIPOSA 3-SITSSOFFA",
+      "brand": "Vitra",
+      "room": "Vardagsrum",
+      "imgLink": "mariposa-3-sits-iroko-2.jpg",
+      "price": 89300
+    },
+    {
+      "id": 2,
+      "name": "HEMNES Sängstomme, vitbets/Luröy, 120x200 cm",
+      "brand": "IKEA",
+      "room": "Sovrum",
+      "imgLink": "hemnes-saengstomme-vitbets-luroey__0948861_pe799327_s5.webp",
+      "price": 2995
+    },
+    {
+      "id": 3,
+      "name": "IN BETWEEN SK12 / OILED OAK",
+      "brand": "&Tradition",
+      "room": "Kök",
+      "imgLink": "sk12-vitoljad.jpg",
+      "price": 19295
+    },
+    {
+      "id": "4",
+      "name": "Cotton Percale 220x220 cm Ash Black",
+      "brand": "TEKLA",
+      "room": "Sovrum",
+      "imgLink": "tekla-organic-cotton-percale-bedding-ash-black-cover.jpg",
+      "price": 1649
+    },
+    {
+      "id": "5",
+      "name": "Cobra Dinner Plate",
+      "brand": "GEORG JENSEN",
+      "room": "Kök",
+      "imgLink": "cobra-dinner-plate.jpg",
+      "price": 225
+    },
+    {
+      "id": "6",
+      "name": "BL2 Bone China/Black Bras",
+      "brand": "GUBI",
+      "room": "Vardagsrum",
+      "imgLink": "58115_image_1.jpg",
+      "price": 4797
+    }
+  ]
+}
